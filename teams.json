@@ -1,0 +1,375 @@
+  {
+    "get": "teams",
+    "parameters": {
+        "league": "288",
+        "season": "2023"
+    },
+    "errors": [],
+    "results": 18,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 2669,
+                "name": "Amazulu",
+                "code": "AMA",
+                "country": "South-Africa",
+                "founded": 1932,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2669.png"
+            },
+            "venue": {
+                "id": 21586,
+                "name": "Moses Mabhida Stadium",
+                "address": "Walter Gilbert Road",
+                "city": "Durban",
+                "capacity": 69957,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/21586.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2683,
+                "name": "Ajax Cape Town",
+                "code": "AJA",
+                "country": "South-Africa",
+                "founded": 1999,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2683.png"
+            },
+            "venue": {
+                "id": 11069,
+                "name": "Parow Park Stadium",
+                "address": "Parow",
+                "city": "Cape Town, WC",
+                "capacity": 3000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/11069.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2688,
+                "name": "Baroka FC",
+                "code": "BAR",
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2688.png"
+            },
+            "venue": {
+                "id": 1717,
+                "name": "Peter Mokaba Stadium",
+                "address": "Webster Street",
+                "city": "Pietersburg",
+                "capacity": 45264,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1717.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2690,
+                "name": "Golden Arrows",
+                "code": "GOL",
+                "country": "South-Africa",
+                "founded": 1943,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2690.png"
+            },
+            "venue": {
+                "id": 7256,
+                "name": "Mpumalanga Stadium",
+                "address": "159 Shezi Main Road, Mpumalanga B",
+                "city": "Mpumalanga",
+                "capacity": 3000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/7256.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2691,
+                "name": "Kaizer Chiefs",
+                "code": "KAI",
+                "country": "South-Africa",
+                "founded": 1970,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2691.png"
+            },
+            "venue": {
+                "id": 1443,
+                "name": "FNB Stadium (Soccer City)",
+                "address": "Nasrec Road",
+                "city": "Johannesburg, GA",
+                "capacity": 94736,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1443.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2693,
+                "name": "Polokwane City",
+                "code": "POL",
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2693.png"
+            },
+            "venue": {
+                "id": 12149,
+                "name": "Old Peter Mokaba Stadium",
+                "address": "Stadium Link 5 Street",
+                "city": "Pietersburg",
+                "capacity": 15000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/12149.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2694,
+                "name": "Supersport United",
+                "code": "SUP",
+                "country": "South-Africa",
+                "founded": 1994,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2694.png"
+            },
+            "venue": {
+                "id": 11256,
+                "name": "TUT Stadium",
+                "address": "Pretoria West",
+                "city": "Pretoria",
+                "capacity": 2500,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/11256.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2697,
+                "name": "Cape Town City",
+                "code": "BLA",
+                "country": "South-Africa",
+                "founded": 2007,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2697.png"
+            },
+            "venue": {
+                "id": 20575,
+                "name": "DHL Cape Town Stadium",
+                "address": "Vlei Road, Green Point",
+                "city": "Cape Town, WC",
+                "capacity": 69070,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/20575.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "code": "CHI",
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "venue": {
+                "id": 21587,
+                "name": "Buffalo City Stadium",
+                "address": "Recreation Road, Arcadia",
+                "city": "East London",
+                "capacity": 16000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/21587.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2699,
+                "name": "Mamelodi Sundowns",
+                "code": "MAM",
+                "country": "South-Africa",
+                "founded": 1970,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2699.png"
+            },
+            "venue": {
+                "id": 12712,
+                "name": "Loftus Versfeld Stadium",
+                "address": "Kirkness Road",
+                "city": "Tshwane",
+                "capacity": 51762,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/12712.png"
+            }
+        },
+        {
+            "team": {
+                "id": 2700,
+                "name": "Orlando Pirates",
+                "code": "ORL",
+                "country": "South-Africa",
+                "founded": 1937,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/2700.png"
+            },
+            "venue": {
+                "id": 1453,
+                "name": "Orlando Stadium",
+                "address": "Mooki Street and Valley Road, Orlando East, Soweto",
+                "city": "Johannesburg, GA",
+                "capacity": 40000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1453.png"
+            }
+        },
+        {
+            "team": {
+                "id": 4905,
+                "name": "Stellenbosch",
+                "code": "STE",
+                "country": "South-Africa",
+                "founded": 1980,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/4905.png"
+            },
+            "venue": {
+                "id": 12714,
+                "name": "Danie Craven Stadium",
+                "address": "Coetzenburg St.",
+                "city": "Stellenbosch",
+                "capacity": 16000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/12714.png"
+            }
+        },
+        {
+            "team": {
+                "id": 8074,
+                "name": "TS Galaxy",
+                "code": null,
+                "country": "South-Africa",
+                "founded": 2015,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/8074.png"
+            },
+            "venue": {
+                "id": 12715,
+                "name": "Mbombela Stadium",
+                "address": null,
+                "city": "Nelspruit",
+                "capacity": 43589,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/12715.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10563,
+                "name": "Moroka Swallows",
+                "code": "MOR",
+                "country": "South-Africa",
+                "founded": 1947,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10563.png"
+            },
+            "venue": {
+                "id": 20577,
+                "name": "Dobsonville Stadium",
+                "address": "Montlahla and Majova Street, Dobsonville, Soweto",
+                "city": "Johannesburg, GA",
+                "capacity": 24000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/20577.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10566,
+                "name": "Royal AM",
+                "code": null,
+                "country": "South-Africa",
+                "founded": 2015,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10566.png"
+            },
+            "venue": {
+                "id": 1452,
+                "name": "Harry Gwala Stadium",
+                "address": "Princess Margaret Drive, Pelham",
+                "city": "Pietermaritzburg, KN",
+                "capacity": 22000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1452.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10567,
+                "name": "Richards Bay",
+                "code": null,
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10567.png"
+            },
+            "venue": {
+                "id": 1445,
+                "name": "King Goodwill Zwelithini Stadium",
+                "address": "Mangosuthu Highway, Umlazi",
+                "city": "Durban, KN",
+                "capacity": 14500,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1445.png"
+            }
+        },
+        {
+            "team": {
+                "id": 10569,
+                "name": "University of Pretoria",
+                "code": "PRE",
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/10569.png"
+            },
+            "venue": {
+                "id": 20218,
+                "name": "Tuks Stadium",
+                "address": "South Street, Hatfield",
+                "city": "Tshwane",
+                "capacity": 15000,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/20218.png"
+            }
+        },
+        {
+            "team": {
+                "id": 15537,
+                "name": "Sekhukhune United",
+                "code": null,
+                "country": "South-Africa",
+                "founded": null,
+                "national": false,
+                "logo": "https://media.api-sports.io/football/teams/15537.png"
+            },
+            "venue": {
+                "id": 1717,
+                "name": "Peter Mokaba Stadium",
+                "address": "Webster Street",
+                "city": "Pietersburg",
+                "capacity": 45264,
+                "surface": "grass",
+                "image": "https://media.api-sports.io/football/venues/1717.png"
+            }
+        }
+    ]
+}
