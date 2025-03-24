@@ -11,7 +11,7 @@ headers = {
 }
 
 # Define the endpoint for fixture statistics
-endpoint_fixtures_statistics = "/fixtures"
+endpoint_fixtures_statistics = "/fixtures/events"
 
 # Define the fixture ID to fetch statistics for
 fixture_id = 1104071 #e with your desired fixture ID
@@ -34,7 +34,7 @@ fixture_statistics = fetch_fixture_statistics(fixture_id)
 conn.close()
 
 # Save response to a JSON file
-with open("fixture_statistics.json", "w", encoding="utf-8") as file:
+with open("lineups.json", "w", encoding="utf-8") as file:
     json.dump(fixture_statistics, file, indent=4)
 
 print("Fixture statistics saved to fixture_statistics.json")

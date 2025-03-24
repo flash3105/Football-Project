@@ -1,0 +1,432 @@
+{
+    "get": "fixtures/lineups",
+    "parameters": {
+        "fixture": "1104071"
+    },
+    "errors": [],
+    "results": 2,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "team": {
+                "id": 2691,
+                "name": "Kaizer Chiefs",
+                "logo": "https://media.api-sports.io/football/teams/2691.png",
+                "colors": {
+                    "player": {
+                        "primary": "fcb02d",
+                        "number": "0b0a0a",
+                        "border": "fcb02d"
+                    },
+                    "goalkeeper": {
+                        "primary": "669999",
+                        "number": "dd0000",
+                        "border": "669999"
+                    }
+                }
+            },
+            "coach": {
+                "id": 953,
+                "name": "M. Ntseki",
+                "photo": "https://media.api-sports.io/football/coachs/953.png"
+            },
+            "formation": "4-2-3-1",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 98933,
+                        "name": "B. Petersen",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46360,
+                        "name": "R. Frosler",
+                        "number": 39,
+                        "pos": "D",
+                        "grid": "2:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46404,
+                        "name": "S. Msimango",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 137338,
+                        "name": "T. Ditlhokwe",
+                        "number": 24,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 3276,
+                        "name": "S. Hlanti",
+                        "number": 23,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 52991,
+                        "name": "E. Castillo",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 99106,
+                        "name": "Y. Maart",
+                        "number": 8,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 404907,
+                        "name": "C. Saile",
+                        "number": 21,
+                        "pos": "M",
+                        "grid": "4:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46375,
+                        "name": "Nkosingiphile Ngcobo",
+                        "number": 12,
+                        "pos": "M",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 349346,
+                        "name": "M. Shabalala",
+                        "number": 42,
+                        "pos": "M",
+                        "grid": "4:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46531,
+                        "name": "R. Chivaviro",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": "5:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 127434,
+                        "name": "A. Du Preez",
+                        "number": 9,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46436,
+                        "name": "T. Potsane",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46533,
+                        "name": "M. Mdantsane",
+                        "number": 3,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 205513,
+                        "name": "Njabulo Ngcobo",
+                        "number": 27,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 392474,
+                        "name": "S. Zwane",
+                        "number": 37,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 301870,
+                        "name": "S. Radebe",
+                        "number": 33,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46538,
+                        "name": "Z. Kwinika",
+                        "number": 4,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46354,
+                        "name": "B. Bvuma",
+                        "number": 44,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46507,
+                        "name": "S. Sithebe",
+                        "number": 6,
+                        "pos": "M",
+                        "grid": null
+                    }
+                }
+            ]
+        },
+        {
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png",
+                "colors": {
+                    "player": {
+                        "primary": "ffffff",
+                        "number": "000000",
+                        "border": "ffffff"
+                    },
+                    "goalkeeper": {
+                        "primary": "ff6699",
+                        "number": "ffffff",
+                        "border": "ff6699"
+                    }
+                }
+            },
+            "coach": {
+                "id": 20378,
+                "name": "M. Mammila",
+                "photo": "https://media.api-sports.io/football/coachs/20378.png"
+            },
+            "formation": "4-4-2",
+            "startXI": [
+                {
+                    "player": {
+                        "id": 180728,
+                        "name": "S. Nwabali",
+                        "number": 32,
+                        "pos": "G",
+                        "grid": "1:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 297376,
+                        "name": "A. Ntsabo",
+                        "number": 3,
+                        "pos": "D",
+                        "grid": "2:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46220,
+                        "name": "J. Chabalala",
+                        "number": 33,
+                        "pos": "D",
+                        "grid": "2:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 98922,
+                        "name": "R. Pietersen",
+                        "number": 5,
+                        "pos": "D",
+                        "grid": "2:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 269523,
+                        "name": "Z. Mdunyelwa",
+                        "number": 2,
+                        "pos": "D",
+                        "grid": "2:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 205395,
+                        "name": "M. Ndwandwe",
+                        "number": 17,
+                        "pos": "M",
+                        "grid": "3:4"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46486,
+                        "name": "A. Konqobe",
+                        "number": 24,
+                        "pos": "M",
+                        "grid": "3:3"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46525,
+                        "name": "G. Mosele",
+                        "number": 20,
+                        "pos": "M",
+                        "grid": "3:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 192338,
+                        "name": "T. Lebitso",
+                        "number": 28,
+                        "pos": "M",
+                        "grid": "3:1"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46243,
+                        "name": "A. Mulenga",
+                        "number": 15,
+                        "pos": "F",
+                        "grid": "4:2"
+                    }
+                },
+                {
+                    "player": {
+                        "id": 125382,
+                        "name": "S. Luthuli",
+                        "number": 13,
+                        "pos": "F",
+                        "grid": "4:1"
+                    }
+                }
+            ],
+            "substitutes": [
+                {
+                    "player": {
+                        "id": 98995,
+                        "name": "S. Kammies",
+                        "number": 25,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 133632,
+                        "name": "R. Maarman",
+                        "number": 11,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46234,
+                        "name": "L. Memela",
+                        "number": 10,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46284,
+                        "name": "C. Martin",
+                        "number": 30,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 46560,
+                        "name": "A. Mbenyane",
+                        "number": 7,
+                        "pos": "F",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 153361,
+                        "name": "B. Majogoro",
+                        "number": 19,
+                        "pos": "D",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 71551,
+                        "name": "L. Kazapua",
+                        "number": 1,
+                        "pos": "G",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 358447,
+                        "name": "S. Nkwanyana",
+                        "number": 21,
+                        "pos": "M",
+                        "grid": null
+                    }
+                },
+                {
+                    "player": {
+                        "id": 355137,
+                        "name": "T. Molaoa",
+                        "number": 18,
+                        "pos": "M",
+                        "grid": null
+                    }
+                }
+            ]
+        }
+    ]
+}

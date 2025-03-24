@@ -1,15 +1,234 @@
 {
-    "get": "fixtures/statistics",
+    "get": "fixtures/events",
     "parameters": {
         "fixture": "1104071"
     },
-    "errors": {
-        "requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."
-    },
-    "results": 0,
+    "errors": [],
+    "results": 10,
     "paging": {
         "current": 1,
         "total": 1
     },
-    "response": []
+    "response": [
+        {
+            "time": {
+                "elapsed": 19,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 46220,
+                "name": "Justice Chabalala"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 54,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 297376,
+                "name": "Azola Ntsabo"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Argument"
+        },
+        {
+            "time": {
+                "elapsed": 60,
+                "extra": null
+            },
+            "team": {
+                "id": 2691,
+                "name": "Kaizer Chiefs",
+                "logo": "https://media.api-sports.io/football/teams/2691.png"
+            },
+            "player": {
+                "id": 349346,
+                "name": "M. Shabalala"
+            },
+            "assist": {
+                "id": 127434,
+                "name": "A. Du Preez"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 297376,
+                "name": "A. Ntsabo"
+            },
+            "assist": {
+                "id": 98995,
+                "name": "S. Kammies"
+            },
+            "type": "subst",
+            "detail": "Substitution 1",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 205395,
+                "name": "M. Ndwandwe"
+            },
+            "assist": {
+                "id": 133632,
+                "name": "R. Maarman"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 64,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 125382,
+                "name": "S. Luthuli"
+            },
+            "assist": {
+                "id": 46234,
+                "name": "L. Memela"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 67,
+                "extra": null
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 192338,
+                "name": "Thabiso Lebitso"
+            },
+            "assist": {
+                "id": null,
+                "name": null
+            },
+            "type": "Card",
+            "detail": "Yellow Card",
+            "comments": "Foul"
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 2691,
+                "name": "Kaizer Chiefs",
+                "logo": "https://media.api-sports.io/football/teams/2691.png"
+            },
+            "player": {
+                "id": 46531,
+                "name": "R. Chivaviro"
+            },
+            "assist": {
+                "id": 46436,
+                "name": "T. Potsane"
+            },
+            "type": "subst",
+            "detail": "Substitution 2",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 71,
+                "extra": null
+            },
+            "team": {
+                "id": 2691,
+                "name": "Kaizer Chiefs",
+                "logo": "https://media.api-sports.io/football/teams/2691.png"
+            },
+            "player": {
+                "id": 46375,
+                "name": "Nkosingiphile Ngcobo"
+            },
+            "assist": {
+                "id": 46533,
+                "name": "M. Mdantsane"
+            },
+            "type": "subst",
+            "detail": "Substitution 3",
+            "comments": null
+        },
+        {
+            "time": {
+                "elapsed": 90,
+                "extra": 2
+            },
+            "team": {
+                "id": 2698,
+                "name": "Chippa United",
+                "logo": "https://media.api-sports.io/football/teams/2698.png"
+            },
+            "player": {
+                "id": 46243,
+                "name": "A. Mulenga"
+            },
+            "assist": {
+                "id": 46284,
+                "name": "C. Martin"
+            },
+            "type": "subst",
+            "detail": "Substitution 4",
+            "comments": null
+        }
+    ]
 }
